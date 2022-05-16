@@ -112,7 +112,7 @@ Additional math functions are found in the `math` module.
 ```python
 import math
 a = math.sqrt(x)
-b = math.sin(x)
+b = math.sin(x) 
 c = math.cos(x)
 d = math.tan(x)
 e = math.log(x)
