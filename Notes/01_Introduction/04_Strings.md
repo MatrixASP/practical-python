@@ -137,7 +137,7 @@ Strings have a wide variety of other methods for testing and manipulating the te
 This is a small sample of methods:
 
 ```python
-s.endswith(suffix)     # Check if string ends with suffix
+s.endswith(suffix)'8     # Check if string ends with suffix
 s.find(t)              # First occurrence of t in s
 s.index(t)             # First occurrence of t in s
 s.isalpha()            # Check if characters are alphabetic
